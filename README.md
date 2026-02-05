@@ -13,7 +13,6 @@ my first repos
 
  $$sin(x)+tg(x)$$
 
-
 *hola*
 ## hola
 
