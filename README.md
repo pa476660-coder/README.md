@@ -10,7 +10,7 @@ my first repos
  - 2
  - 3
 
- $$ sin(x)+tg(x) $$
+ $$sin(x)+tg(x)$$
 
 *hola*
 ## hola
@@ -18,4 +18,4 @@ my first repos
 
 este es un cambio
 
-$$ a=\frac{b}{c} $$
+$$a=\frac{b}{c}$$
