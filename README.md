@@ -18,4 +18,4 @@ my first repos
 
 este es un cambio
 
-$$ a=\frac{b}/{c} $$
+$$ a=\frac{b}{c} $$
